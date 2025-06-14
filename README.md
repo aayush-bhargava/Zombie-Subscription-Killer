@@ -46,7 +46,7 @@ Built solo by **Aayush Bhargava**
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/zombie-subscription-killer-frontend.git
+git clone https://github.com/aayush-bhargava/zombie-subscription-killer-frontend.git
 
 # Move into the project directory
 cd zombie-subscription-killer-frontend
