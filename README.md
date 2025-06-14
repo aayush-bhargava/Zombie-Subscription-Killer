@@ -44,26 +44,6 @@ Built solo by **Aayush Bhargava**
 
 ---
 
-## 📁 Project Structure (Frontend)
-
-ZombieSubKiller/
-├── public/
-│ ├── index.html
-├── src/
-│ ├── components/
-│ │ ├── Home.js
-│ │ ├── Upload.js
-│ │ └── Dashboard.js
-│ ├── App.js
-│ ├── index.js
-│ └── routes.js
-├── .gitignore
-├── README.md
-└── package.json
-
-
----
-
 ## 🧪 How to Run Locally
 
 ```bash
