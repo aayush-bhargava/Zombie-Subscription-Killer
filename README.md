@@ -2,8 +2,6 @@
 
 A smart, stylish tool to detect and cancel forgotten subscriptions that silently kill your bank balance.
 
-![screenshot](public/zombie1.png)
-
 ---
 
 ## 💡 About the Project
